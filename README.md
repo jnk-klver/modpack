@@ -1,5 +1,7 @@
 # Cómo instalar el pack de mods
 
+(no funciona ahora mismo)
+
 1 - Descarga el archivo "instalador.bat"
 
 2 - Haz doble clic sobre él
