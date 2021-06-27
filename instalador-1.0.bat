@@ -89,7 +89,6 @@ powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com
 echo Instalando mods... 34/70
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/jnk-klver/modpack/raw/main/mods/mining_helmet.jar', 'mining_helmet.jar')"
 echo Instalando mods... 35/70
-powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/jnk-klver/modpack/raw/main/mods/mjs_animations.jar', 'mjs_animations.jar')"
 echo Instalando mods... 36/70
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/jnk-klver/modpack/raw/main/mods/mowziesmobs.jar', 'mowziesmobs.jar')"
 echo Instalando mods... 37/70
