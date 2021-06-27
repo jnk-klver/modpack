@@ -24,6 +24,7 @@ cd mods
 echo Instalando mods... 1/70
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/jnk-klver/modpack/raw/main/mods/3dmaneuver_gear.jar', '3dmaneuver_gear.jar')"
 echo Instalando mods... 2/70
+powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/jnk-klver/modpack/raw/main/mods/cyclic.jar', 'cyclic.jar')"
 echo Instalando mods... 3/70
 powershell -Command "(New-Object Net.WebClient).DownloadFile('https://github.com/jnk-klver/modpack/raw/main/mods/autoreglib.jar', 'autoreglib.jar')"
 echo Instalando mods... 4/70
